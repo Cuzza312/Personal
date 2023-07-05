@@ -1,4 +1,4 @@
-* Hand Gesture Recognition
+# Hand Gesture Recognition
 
 This was an end of unit project for school where I had to create an AI that recognises hand gestures that could be used to control a robot
 
