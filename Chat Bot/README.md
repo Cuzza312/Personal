@@ -1,1 +1,2 @@
-* Chat Bot
+# Chat Bot
+This is a very simple WIP chatbot that I put together inbetween trimesters. It has limited vocabulary at the moment due to only being trained on 20 epochs, but is able to form full sentences. It is made up of a Bi-LSTM with two LSTM layers. due to short training time it currently only has an accuracy of 48% but the loss and accuracy didn't drop during training which shows signs that it is not overfitting so increased epochs will increase accuracy.
